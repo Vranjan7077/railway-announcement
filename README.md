@@ -23,4 +23,4 @@ At small stations these announcement are not used . At small stations generally 
 
 # Output
 
-![GitHub Logo](/railway-announcement/output.jpg)
+![Railway-Announcement](/railway-announcement/output.jpg)
