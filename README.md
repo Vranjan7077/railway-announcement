@@ -23,4 +23,4 @@ At small stations these announcement are not used . At small stations generally 
 
 # Output
 
-Format: ![Railway Announcement](url)
+Format: ![Railway Announcement](https://github.com/Vranjan7077/railway-announcement/blob/master/railway%20announcement/output.jpg)
