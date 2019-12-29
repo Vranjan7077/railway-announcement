@@ -1,12 +1,7 @@
 # railway-announcement
 
 As we all know Indian Railways is one of the biggest train systems in the world. And IR operates more than 13,000 Passenger train daily.
-So they need a good announcement system for such a huge no. of trains at every Station.
-Announcement system in Indian Railways is operated by computer at every Station by station master.
-We can organise the announcement in two categories 1) pre-recorded announcement 2) spontaneous announcement.
-Pre-recorded announcement are those announcement which are recorded earlier and can be used later. In this type of announcement all of the phrases are not recorded.
-
-Only the variable phases which cahnges for every train and platform are recorded separately and the phrases which changes regularly are recorded separately.
+So they need a good announcement system for such a huge no. of trains at every Station.Announcement system in Indian Railways is operated by computer at every Station by station master.We can organise the announcement in two categories 1) pre-recorded announcement 2) spontaneous announcement.Pre-recorded announcement are those announcement which are recorded earlier and can be used later. In this type of announcement all of the phrases are not recorded.Only the variable phases which cahnges for every train and platform are recorded separately and the phrases which changes regularly are recorded separately.
 
 May I have your attention please, train no. ________ with destination to ___________ started from _____________ station via ____________ station ______(time) is going to depart/arrive from/at platform no.______
 
